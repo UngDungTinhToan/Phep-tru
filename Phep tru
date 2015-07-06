@@ -1,3 +1,7 @@
+'Khai báo
 dim a as interger
 dim b as interger
 dim resul as string
+' bôtn
+lblressul.text = val(txtA.text)-val(txtB.text)
+End sub
